@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Goswami</h1>
-<h3 align="center">Teaching machines to learn</h3>
+<h3 align="center">Teaching Machines To Learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantgoswami&label=Profile%20views&color=0e75b6&style=flat" alt="vedantgoswami" /> </p>
 
