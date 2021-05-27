@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantgoswami" alt="vedantgoswami" /></a> </p>
 
-- 🔭 I’m currently working on **Neural Network(CNN)**
+- 🔭 I’m currently working on **Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedantgoswami](https://github.com/vedantgoswami)
 
